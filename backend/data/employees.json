@@ -1,0 +1,26 @@
+[
+  {
+    "firstName": "Адъяа",
+    "lastName" : "Батнаран",
+    "registerID" : "УГ79234560",
+    "jobTitleName" : "ССМНСГ-ын ажилтан",
+    "phoneNumber" : "99478912",
+    "employeeCode" : "ТД-02"
+  },
+  {
+    "firstName": "Учрал",
+    "lastName" : "Цэвээн",
+    "registerID" : "ХА82456789",
+    "jobTitleName" : "Ахлах референт",
+    "phoneNumber" : "89123456",
+    "employeeCode" : "ТД-09"
+  },
+  {
+    "firstName": "Жаргалан",
+    "lastName" : "Амгалан",
+    "registerID" : "ЦФ85450953",
+    "jobTitleName" : "Архивын эрхлэгч",
+    "phoneNumber" : "80503243",
+    "employeeCode" : "ТД-01"
+  }
+]
