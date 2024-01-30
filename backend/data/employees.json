@@ -3,7 +3,7 @@
     "firstName": "Адъяа",
     "lastName" : "Батнаран",
     "registerID" : "УГ79234560",
-    "jobTitleName" : "ССМНСГ-ын ажилтан",
+    "jobTitleName" : "Захиргаа, удирдлагын газрын дарга",
     "phoneNumber" : "99478912",
     "employeeCode" : "ТД-02"
   },
@@ -16,11 +16,59 @@
     "employeeCode" : "ТД-09"
   },
   {
+    "firstName": "Номин",
+    "lastName" : "Даш",
+    "registerID" : "ХД89152356",
+    "jobTitleName" : "Нярав",
+    "phoneNumber" : "91562378",
+    "employeeCode" : "ТД-01"
+  },
+  {
+    "firstName": "Оюу",
+    "lastName" : "Хашбат",
+    "registerID" : "УЛ92458223",
+    "jobTitleName" : "Бичиг хэрэг",
+    "phoneNumber" : "98567832",
+    "employeeCode" : "ТД-01"
+  },
+  {
     "firstName": "Жаргалан",
     "lastName" : "Амгалан",
     "registerID" : "ЦФ85450953",
     "jobTitleName" : "Архивын эрхлэгч",
     "phoneNumber" : "80503243",
     "employeeCode" : "ТД-01"
+  },
+  {
+    "firstName": "Түмэннасан",
+    "lastName" : "Жамбаа",
+    "registerID" : "ДА74568923",
+    "jobTitleName" : "Хууль, эрх зүйн асуудал хариуцсан референт",
+    "phoneNumber" : "95131102",
+    "employeeCode" : "ТД-08"
+  },
+  {
+    "firstName": "Чинбат",
+    "lastName" : "Гүнзориг",
+    "registerID" : "АО82963214",
+    "jobTitleName" : "Ахлах мэргэжилтэн",
+    "phoneNumber" : "94715622",
+    "employeeCode" : "ТД-05"
+  },
+  {
+    "firstName": "Баярбат",
+    "lastName" : "Билэг",
+    "registerID" : "ХБ84230201",
+    "jobTitleName" : "Шуурхай ажлын зохион байгуулалт хариуцсан ажилтан",
+    "phoneNumber" : "99073265",
+    "employeeCode" : "ТД-06"
+  },
+  {
+    "firstName": "Энхжин",
+    "lastName" : "Зориг",
+    "registerID" : "ҮА79524783",
+    "jobTitleName" : "Ахлах шинжээч",
+    "phoneNumber" : "95126578",
+    "employeeCode" : "ТД-03"
   }
 ]

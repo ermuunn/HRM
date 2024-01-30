@@ -1,6 +1,6 @@
 import cors from "cors";
 import express from "express";
-import { createEmployee, listEmployee } from "./controllers/employee.controller.js";
+import { createEmployee, listEmployee, deleteEmployee } from "./controllers/employee.controller.js";
 import { connectToDatabase } from "./mongodb.js";
 
 const app = express();
@@ -12,6 +12,7 @@ app.use(cors());
 //Employees
 app.post("/api/employees", createEmployee);
 app.get("/api/employees", listEmployee);
+app.delete('/api/employees/:employeeId', deleteEmployee);
 
 const server = async () => {
   try {
