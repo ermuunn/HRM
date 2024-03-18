@@ -1,7 +1,10 @@
 import cors from "cors";
 import express from "express";
+import dotenv from "dotenv";
 import { createEmployee, listEmployee, deleteEmployee } from "./controllers/employee.controller.js";
 import { connectToDatabase } from "./mongodb.js";
+
+dotenv.config();
 
 const app = express();
 const port = 8000;

@@ -1,6 +1,9 @@
 import mongoose from "mongoose";
+import dotenv from "dotenv";
 
-const uri = "mongodb+srv://ermuun:halbagaseree@hrm.a6nigmx.mongodb.net/";
+dotenv.config();
+
+const uri = process.env.MONGODB_URI;
 const dbName = "hrm";
 
 export const connectToDatabase = async () => {
